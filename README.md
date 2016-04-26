@@ -18,7 +18,7 @@ $ npm install --save sails-db-migrate
 ```
 
 You may also have to explicitly install your database driver. Normallys it's
-installed under `sails-{postgresql,mysql}`, but that won't be found outside of
+installed under `sails-{postgresql,mysql,mongo}`, but that won't be found outside of
 that package.
 
 ```bash
